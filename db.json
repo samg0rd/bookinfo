@@ -1,14 +1,4 @@
 [{
-		"author": "Chinua Achebe",
-		"country": "Nigeria",
-		"imageLink": "images/things-fall-apart.jpg",
-		"language": "English",
-		"link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
-		"pages": 209,
-		"title": "Things Fall Apart",
-		"year": 1958
-	},
-	{
 		"author": "Hans Christian Andersen",
 		"country": "Denmark",
 		"imageLink": "images/fairy-tales.jpg",
@@ -99,16 +89,6 @@
 		"year": 1942
 	},
 	{
-		"author": "Paul Celan",
-		"country": "Romania, France",
-		"imageLink": "images/poems-paul-celan.jpg",
-		"language": "German",
-		"link": "\n",
-		"pages": 320,
-		"title": "Poems",
-		"year": 1952
-	},
-	{
 		"author": "Louis-Ferdinand C\u00e9line",
 		"country": "France",
 		"imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
@@ -127,16 +107,6 @@
 		"pages": 1056,
 		"title": "Don Quijote De La Mancha",
 		"year": 1610
-	},
-	{
-		"author": "Geoffrey Chaucer",
-		"country": "England",
-		"imageLink": "images/the-canterbury-tales.jpg",
-		"language": "English",
-		"link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
-		"pages": 544,
-		"title": "The Canterbury Tales",
-		"year": 1450
 	},
 	{
 		"author": "Anton Chekhov",
@@ -177,16 +147,6 @@
 		"pages": 596,
 		"title": "Jacques the Fatalist",
 		"year": 1796
-	},
-	{
-		"author": "Alfred D\u00f6blin",
-		"country": "Germany",
-		"imageLink": "images/berlin-alexanderplatz.jpg",
-		"language": "German",
-		"link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
-		"pages": 600,
-		"title": "Berlin Alexanderplatz",
-		"year": 1929
 	},
 	{
 		"author": "Fyodor Dostoevsky",
@@ -499,16 +459,6 @@
 		"year": 1934
 	},
 	{
-		"author": "Giacomo Leopardi",
-		"country": "Italy",
-		"imageLink": "images/poems-giacomo-leopardi.jpg",
-		"language": "Italian",
-		"link": "\n",
-		"pages": 184,
-		"title": "Poems",
-		"year": 1818
-	},
-	{
 		"author": "Doris Lessing",
 		"country": "United Kingdom",
 		"imageLink": "images/the-golden-notebook.jpg",
@@ -527,16 +477,6 @@
 		"pages": 160,
 		"title": "Pippi Longstocking",
 		"year": 1945
-	},
-	{
-		"author": "Lu Xun",
-		"country": "China",
-		"imageLink": "images/diary-of-a-madman.jpg",
-		"language": "Chinese",
-		"link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
-		"pages": 389,
-		"title": "Diary of a Madman",
-		"year": 1918
 	},
 	{
 		"author": "Naguib Mahfouz",
@@ -809,16 +749,6 @@
 		"year": 1830
 	},
 	{
-		"author": "Laurence Sterne",
-		"country": "England",
-		"imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
-		"language": "English",
-		"link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
-		"pages": 640,
-		"title": "The Life And Opinions of Tristram Shandy",
-		"year": 1760
-	},
-	{
 		"author": "Italo Svevo",
 		"country": "Italy",
 		"imageLink": "images/confessions-of-zeno.jpg",
@@ -879,16 +809,6 @@
 		"year": 1884
 	},
 	{
-		"author": "Valmiki",
-		"country": "India",
-		"imageLink": "images/ramayana.jpg",
-		"language": "Sanskrit",
-		"link": "https://en.wikipedia.org/wiki/Ramayana\n",
-		"pages": 152,
-		"title": "Ramayana",
-		"year": -450
-	},
-	{
 		"author": "Virgil",
 		"country": "Roman Empire",
 		"imageLink": "images/the-aeneid.jpg",
@@ -917,16 +837,6 @@
 		"pages": 152,
 		"title": "Leaves of Grass",
 		"year": 1855
-	},
-	{
-		"author": "Virginia Woolf",
-		"country": "United Kingdom",
-		"imageLink": "images/mrs-dalloway.jpg",
-		"language": "English",
-		"link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
-		"pages": 216,
-		"title": "Mrs Dalloway",
-		"year": 1925
 	},
 	{
 		"author": "Virginia Woolf",
